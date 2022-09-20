@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://rbiswas-mirp.github.io//sitemap.xml
+Sitemap: https://rbiswas-mirp.github.io/sitemap.xml
