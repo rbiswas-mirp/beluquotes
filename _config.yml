@@ -90,4 +90,7 @@ relative_links:
   enabled:     true
   collections: false
 
-
+algolia:
+  application_id: 'SWOSB142Z9'
+  index_name: 'beluquotes_index'
+  search_only_api_key: '74e7a686b741a9e2cc829ccb12c48b9b'
