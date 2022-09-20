@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://master.dxiu45o9tmuh4.amplifyapp.com/sitemap.xml
+Sitemap: https://rbiswas-mirp.github.io//sitemap.xml
