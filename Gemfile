@@ -4,7 +4,6 @@ gem 'jekyll-paginate'
 gem 'jekyll-sitemap'
 gem 'jekyll-relative-links'
 gem "tzinfo-data", "~> 1.2021"
-gem 'jekyll-algolia', '~> 1.0'
 
 # windows specific
 gem 'wdm', '>= 0.1.0'
