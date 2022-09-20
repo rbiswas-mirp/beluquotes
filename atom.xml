@@ -4,7 +4,7 @@
  <title>BeluQuotes</title>
  <link href="https://rbiswas-mirp.github.io/atom.xml" rel="self"/>
  <link href="https://rbiswas-mirp.github.io/"/>
- <updated>2022-09-20T21:30:37+05:30</updated>
+ <updated>2022-09-20T21:35:22+05:30</updated>
  <id>https://rbiswas-mirp.github.io</id>
  <author>
    <name>Rahul</name>
@@ -50,10 +50,28 @@
  
  <entry>
    <title>What to do if someone corrects your spelling...</title>
-   <link href="https://rbiswas-mirp.github.io/2022/07/09/whaat-to-do-if-someone-corrects-your-spelling"/>
-   <updated>2022-07-09T00:00:00+05:30</updated>
-   <id>https://rbiswas-mirp.github.io/2022/07/09/whaat-to-do-if-someone-corrects-your-spelling</id>
+   <link href="https://rbiswas-mirp.github.io/2022/09/07/what-to-do-if-someone-corrects-your-spelling"/>
+   <updated>2022-09-07T00:00:00+05:30</updated>
+   <id>https://rbiswas-mirp.github.io/2022/09/07/what-to-do-if-someone-corrects-your-spelling</id>
    <content type="html">&lt;h1 id=&quot;you-cant-spell-subscribe-without-su-s&quot;&gt;You can’t spell subscribe without su s&lt;/h1&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Don&apos;t Scan this QR Code</title>
+   <link href="https://rbiswas-mirp.github.io/2022/09/04/dont-scan-this-qr-code"/>
+   <updated>2022-09-04T00:00:00+05:30</updated>
+   <id>https://rbiswas-mirp.github.io/2022/09/04/dont-scan-this-qr-code</id>
+   <content type="html">&lt;h1 id=&quot;beluga-has-been-trapped-in-an-infinite-time-loop&quot;&gt;Beluga has been trapped in an infinite time loop&lt;/h1&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>When Autocorrect RickRolls You...</title>
+   <link href="https://rbiswas-mirp.github.io/2022/09/02/when-autocorrect-rickrolls-you"/>
+   <updated>2022-09-02T00:00:00+05:30</updated>
+   <id>https://rbiswas-mirp.github.io/2022/09/02/when-autocorrect-rickrolls-you</id>
+   <content type="html">&lt;h1 id=&quot;autocorrect-is-like-a-blackhole-nothing-escapes&quot;&gt;Autocorrect is like a blackhole. Nothing escapes&lt;/h1&gt;
 </content>
  </entry>
  
