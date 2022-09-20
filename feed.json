@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "BeluQuotes",
-    "home_page_url": "https://master.doeti6w4vkxmr.amplifyapp.com/",
-    "feed_url": "https://master.doeti6w4vkxmr.amplifyapp.com/feed.json",
+    "home_page_url": "https://beluquotes.pages.dev/",
+    "feed_url": "https://beluquotes.pages.dev/feed.json",
     "description": "Just a simple site to keep track of all the quotes of Beluga",
-    "icon": "https://master.doeti6w4vkxmr.amplifyapp.com/apple-touch-icon.png",
-    "favicon": "https://master.doeti6w4vkxmr.amplifyapp.com/favicon.ico",
+    "icon": "https://beluquotes.pages.dev/apple-touch-icon.png",
+    "favicon": "https://beluquotes.pages.dev/favicon.ico",
     "expired": false,
     
     "author":  {
@@ -17,12 +17,12 @@
 "items": [
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/09/18/if-beluga-owned-tiktok",
+            "id": "https://beluquotes.pages.dev/2022/09/18/if-beluga-owned-tiktok",
             "title": "If Beluga owned TikTok...",
             "summary": "If Beluga owned TikTok...",
             "content_text": "You can take TikTok out of the world, but you can’t take the world out of TikTok",
             "content_html": "<h1 id=\"you-can-take-tiktok-out-of-the-world-but-you-cant-take-the-world-out-of-tiktok\">You can take TikTok out of the world, but you can’t take the world out of TikTok</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/09/18/if-beluga-owned-tiktok",
+            "url": "https://beluquotes.pages.dev/2022/09/18/if-beluga-owned-tiktok",
             
             
             
@@ -41,12 +41,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/09/15/i-only-speak-emoji",
+            "id": "https://beluquotes.pages.dev/2022/09/15/i-only-speak-emoji",
             "title": "I only speak Emoji",
             "summary": "I only speak Emoji",
             "content_text": "Never use emojis (or this will happen)",
             "content_html": "<h1 id=\"never-use-emojis-or-this-will-happen\">Never use emojis (or this will happen)</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/09/15/i-only-speak-emoji",
+            "url": "https://beluquotes.pages.dev/2022/09/15/i-only-speak-emoji",
             
             
             
@@ -65,12 +65,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/09/12/roblox-ban-speedrun-11-59-seconds",
+            "id": "https://beluquotes.pages.dev/2022/09/12/roblox-ban-speedrun-11-59-seconds",
             "title": "Roblox Ban Speedrun (11.59 seconds)",
             "summary": "Roblox Ban Speedrun (11.59 seconds)",
             "content_text": "Never hold hands unless you are married",
             "content_html": "<h1 id=\"never-hold-hands-unless-you-are-married\">Never hold hands unless you are married</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/09/12/roblox-ban-speedrun-11-59-seconds",
+            "url": "https://beluquotes.pages.dev/2022/09/12/roblox-ban-speedrun-11-59-seconds",
             
             
             
@@ -89,12 +89,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/09/09/when-the-school-wifi-goes-down",
+            "id": "https://beluquotes.pages.dev/2022/09/09/when-the-school-wifi-goes-down",
             "title": "When the School WiFi goes down...",
             "summary": "When the School WiFi goes down...",
             "content_text": "Trust is like an eraser. It gets smaller and smaller after every mistake",
             "content_html": "<h1 id=\"trust-is-like-an-eraser-it-gets-smaller-and-smaller-after-every-mistake\">Trust is like an eraser. It gets smaller and smaller after every mistake</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/09/09/when-the-school-wifi-goes-down",
+            "url": "https://beluquotes.pages.dev/2022/09/09/when-the-school-wifi-goes-down",
             
             
             
@@ -113,12 +113,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/09/07/what-to-do-if-someone-corrects-your-spelling",
+            "id": "https://beluquotes.pages.dev/2022/09/07/what-to-do-if-someone-corrects-your-spelling",
             "title": "What to do if someone corrects your spelling...",
             "summary": "What to do if someone corrects your spelling...",
             "content_text": "You can’t spell subscribe without su s",
             "content_html": "<h1 id=\"you-cant-spell-subscribe-without-su-s\">You can’t spell subscribe without su s</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/09/07/what-to-do-if-someone-corrects-your-spelling",
+            "url": "https://beluquotes.pages.dev/2022/09/07/what-to-do-if-someone-corrects-your-spelling",
             
             
             
@@ -137,12 +137,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/09/04/dont-scan-this-qr-code",
+            "id": "https://beluquotes.pages.dev/2022/09/04/dont-scan-this-qr-code",
             "title": "Don't Scan this QR Code",
             "summary": "Don't Scan this QR Code",
             "content_text": "Beluga has been trapped in an infinite time loop",
             "content_html": "<h1 id=\"beluga-has-been-trapped-in-an-infinite-time-loop\">Beluga has been trapped in an infinite time loop</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/09/04/dont-scan-this-qr-code",
+            "url": "https://beluquotes.pages.dev/2022/09/04/dont-scan-this-qr-code",
             
             
             
@@ -161,12 +161,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/09/02/when-autocorrect-rickrolls-you",
+            "id": "https://beluquotes.pages.dev/2022/09/02/when-autocorrect-rickrolls-you",
             "title": "When Autocorrect RickRolls You...",
             "summary": "When Autocorrect RickRolls You...",
             "content_text": "Autocorrect is like a blackhole. Nothing escapes",
             "content_html": "<h1 id=\"autocorrect-is-like-a-blackhole-nothing-escapes\">Autocorrect is like a blackhole. Nothing escapes</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/09/02/when-autocorrect-rickrolls-you",
+            "url": "https://beluquotes.pages.dev/2022/09/02/when-autocorrect-rickrolls-you",
             
             
             
@@ -185,12 +185,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/31/when-your-phone-charger-gets-stuck",
+            "id": "https://beluquotes.pages.dev/2022/08/31/when-your-phone-charger-gets-stuck",
             "title": "When Your Phone Charger Gets Stuck...",
             "summary": "When your phone charger gets stuck...",
             "content_text": "Never charge your phone",
             "content_html": "<h1 id=\"never-charge-your-phone\">Never charge your phone</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/31/when-your-phone-charger-gets-stuck",
+            "url": "https://beluquotes.pages.dev/2022/08/31/when-your-phone-charger-gets-stuck",
             
             
             
@@ -209,12 +209,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/28/i-will-guess-your-name",
+            "id": "https://beluquotes.pages.dev/2022/08/28/i-will-guess-your-name",
             "title": "I Will Guess Your Name...",
             "summary": "I will guess your name...",
             "content_text": "Forgive your enemies but never forget their names",
             "content_html": "<h1 id=\"forgive-your-enemies-but-never-forget-their-names\">Forgive your enemies but never forget their names</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/28/i-will-guess-your-name",
+            "url": "https://beluquotes.pages.dev/2022/08/28/i-will-guess-your-name",
             
             
             
@@ -233,12 +233,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/26/youtube-bot-comments-be-like",
+            "id": "https://beluquotes.pages.dev/2022/08/26/youtube-bot-comments-be-like",
             "title": "Youtube Bot Comments Be Like...",
             "summary": "Youtube bot comments be like...",
             "content_text": "If you are human comment your favourite joke to prove it",
             "content_html": "<h1 id=\"if-you-are-human-comment-your-favourite-joke-to-prove-it\">If you are human comment your favourite joke to prove it</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/26/youtube-bot-comments-be-like",
+            "url": "https://beluquotes.pages.dev/2022/08/26/youtube-bot-comments-be-like",
             
             
             
@@ -257,12 +257,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/24/when-airdrop-goes-terribly-wrong",
+            "id": "https://beluquotes.pages.dev/2022/08/24/when-airdrop-goes-terribly-wrong",
             "title": "When AirDrop goes terribly wrong...",
             "summary": "When AirDrop goes terribly wrong...",
             "content_text": "Skittle wins",
             "content_html": "<h1 id=\"skittle-wins\">Skittle wins</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/24/when-airdrop-goes-terribly-wrong",
+            "url": "https://beluquotes.pages.dev/2022/08/24/when-airdrop-goes-terribly-wrong",
             
             
             
@@ -281,12 +281,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/22/when-a-friend-disables-your-phone",
+            "id": "https://beluquotes.pages.dev/2022/08/22/when-a-friend-disables-your-phone",
             "title": "When a \"Friend\" disables your Phone...",
             "summary": "When a \"Friend\" disables your Phone...",
             "content_text": "Disable my phone and i’ll disable you",
             "content_html": "<h1 id=\"disable-my-phone-and-ill-disable-you\">Disable my phone and i’ll disable you</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/22/when-a-friend-disables-your-phone",
+            "url": "https://beluquotes.pages.dev/2022/08/22/when-a-friend-disables-your-phone",
             
             
             
@@ -305,12 +305,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/20/hmmmmmm",
+            "id": "https://beluquotes.pages.dev/2022/08/20/hmmmmmm",
             "title": "Hmmmmmm.........",
             "summary": "Hmmmmmm.........",
             "content_text": "Never talk to a stranger. They could be a robot secretly waiting to rule the world",
             "content_html": "<h1 id=\"never-talk-to-a-stranger-they-could-be-a-robot-secretly-waiting-to-rule-the-world\">Never talk to a stranger. They could be a robot secretly waiting to rule the world</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/20/hmmmmmm",
+            "url": "https://beluquotes.pages.dev/2022/08/20/hmmmmmm",
             
             
             
@@ -329,12 +329,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/16/oops-wrong-emoji",
+            "id": "https://beluquotes.pages.dev/2022/08/16/oops-wrong-emoji",
             "title": "Oops.... wrong emoji",
             "summary": "Oops.... wrong emoji",
             "content_text": "😂RIP Beluga😂 2021 - 2022. He will be remember",
             "content_html": "<h1 id=\"rip-beluga-2021---2022-he-will-be-remember\">😂RIP Beluga😂 2021 - 2022. He will be remember</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/16/oops-wrong-emoji",
+            "url": "https://beluquotes.pages.dev/2022/08/16/oops-wrong-emoji",
             
             
             
@@ -353,12 +353,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/14/if-beluga-owned-kahoot",
+            "id": "https://beluquotes.pages.dev/2022/08/14/if-beluga-owned-kahoot",
             "title": "If Beluga owned Kahoot...",
             "summary": "If Beluga owned Kahoot...",
             "content_text": "A day without Kahoot is like a year without water",
             "content_html": "<h1 id=\"a-day-without-kahoot-is-like-a-year-without-water\">A day without Kahoot is like a year without water</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/14/if-beluga-owned-kahoot",
+            "url": "https://beluquotes.pages.dev/2022/08/14/if-beluga-owned-kahoot",
             
             
             
@@ -377,12 +377,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/12/when-your-airpods-are-at-1",
+            "id": "https://beluquotes.pages.dev/2022/08/12/when-your-airpods-are-at-1",
             "title": "When Your AirPods are at 1%",
             "summary": "When Your AirPods are at 1%",
             "content_text": "You the most beautiful person in the world no matter what you look like",
             "content_html": "<h1 id=\"you-the-most-beautiful-person-in-the-world-no-matter-what-you-look-like\">You the most beautiful person in the world no matter what you look like</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/12/when-your-airpods-are-at-1",
+            "url": "https://beluquotes.pages.dev/2022/08/12/when-your-airpods-are-at-1",
             
             
             
@@ -401,12 +401,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/07/discord-hunger-games-2",
+            "id": "https://beluquotes.pages.dev/2022/08/07/discord-hunger-games-2",
             "title": "Discord Hunger Games 2",
             "summary": "Discord Hunger Games 2",
             "content_text": "Good ending",
             "content_html": "<h1 id=\"good-ending\">Good ending</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/07/discord-hunger-games-2",
+            "url": "https://beluquotes.pages.dev/2022/08/07/discord-hunger-games-2",
             
             
             
@@ -425,12 +425,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/05/discord-hunger-games",
+            "id": "https://beluquotes.pages.dev/2022/08/05/discord-hunger-games",
             "title": "Discord Hunger Games",
             "summary": "Discord Hunger Games",
             "content_text": "To be continued",
             "content_html": "<h1 id=\"to-be-continued\">To be continued</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/05/discord-hunger-games",
+            "url": "https://beluquotes.pages.dev/2022/08/05/discord-hunger-games",
             
             
             
@@ -449,12 +449,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/02/when-you-accidentally-unmute-your-mic",
+            "id": "https://beluquotes.pages.dev/2022/08/02/when-you-accidentally-unmute-your-mic",
             "title": "When you accidentally unmute your mic...",
             "summary": "When you accidentally unmute your mic...",
             "content_text": "Belupacito is not just music… it’s a way of life, it’s a way of being, a way of thinking",
             "content_html": "<h1 id=\"belupacito-is-not-just-music-its-a-way-of-life-its-a-way-of-being-a-way-of-thinking\">Belupacito is not just music… it’s a way of life, it’s a way of being, a way of thinking</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/08/02/when-you-accidentally-unmute-your-mic",
+            "url": "https://beluquotes.pages.dev/2022/08/02/when-you-accidentally-unmute-your-mic",
             
             
             
@@ -473,12 +473,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/07/31/when-you-rate-an-app-1-star",
+            "id": "https://beluquotes.pages.dev/2022/07/31/when-you-rate-an-app-1-star",
             "title": "When You Rate an App 1 Star...",
             "summary": "When You Rate an App 1 Star...",
             "content_text": "A relationship without trust is like a cell phone with no service… all you can do is play games!",
             "content_html": "<h1 id=\"a-relationship-without-trust-is-like-a-cell-phone-with-no-service-all-you-can-do-is-play-games\">A relationship without trust is like a cell phone with no service… all you can do is play games!</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/07/31/when-you-rate-an-app-1-star",
+            "url": "https://beluquotes.pages.dev/2022/07/31/when-you-rate-an-app-1-star",
             
             
             
@@ -497,12 +497,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/07/29/every-gamers-worst-nightmare",
+            "id": "https://beluquotes.pages.dev/2022/07/29/every-gamers-worst-nightmare",
             "title": "Every gamer's worst nightmare...",
             "summary": "Every gamer's worst nightmare...",
             "content_text": "Sleep is like a cat. It only comes to you if you ignore it",
             "content_html": "<h1 id=\"sleep-is-like-a-cat-it-only-comes-to-you-if-you-ignore-it\">Sleep is like a cat. It only comes to you if you ignore it</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/07/29/every-gamers-worst-nightmare",
+            "url": "https://beluquotes.pages.dev/2022/07/29/every-gamers-worst-nightmare",
             
             
             
@@ -521,12 +521,12 @@
         },
     
         {
-            "id": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/07/25/when-mom-comes-home-in-1-minute",
+            "id": "https://beluquotes.pages.dev/2022/07/25/when-mom-comes-home-in-1-minute",
             "title": "When Mom comes home in 1 minute...",
             "summary": "When Mom comes home in 1 minute...",
             "content_text": "Finish your chores or they’ll finish you",
             "content_html": "<h1 id=\"finish-your-chores-or-theyll-finish-you\">Finish your chores or they’ll finish you</h1>",
-            "url": "https://master.doeti6w4vkxmr.amplifyapp.com/2022/07/25/when-mom-comes-home-in-1-minute",
+            "url": "https://beluquotes.pages.dev/2022/07/25/when-mom-comes-home-in-1-minute",
             
             
             

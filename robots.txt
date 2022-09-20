@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://master.doeti6w4vkxmr.amplifyapp.com/sitemap.xml
+Sitemap: https://beluquotes.pages.dev/sitemap.xml
