@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://rbiswas-mirp.github.io/2022/07/25/when-mom-comes-home-in-1-minute</loc>
+<lastmod>2022-07-25T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>https://rbiswas-mirp.github.io/2022/07/29/every-gamers-worst-nightmare</loc>
+<lastmod>2022-07-29T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>https://rbiswas-mirp.github.io/2022/07/31/when-you-rate-an-app-1-star</loc>
+<lastmod>2022-07-31T00:00:00+05:30</lastmod>
+</url>
+<url>
 <loc>https://rbiswas-mirp.github.io/2022/08/02/when-you-accidentally-unmute-your-mic</loc>
 <lastmod>2022-08-02T00:00:00+05:30</lastmod>
 </url>
@@ -80,7 +92,10 @@
 <loc>https://rbiswas-mirp.github.io/about/</loc>
 </url>
 <url>
-<loc>https://rbiswas-mirp.github.io/tag/wordpress/</loc>
+<loc>https://rbiswas-mirp.github.io/tag/security/</loc>
+</url>
+<url>
+<loc>https://rbiswas-mirp.github.io/tag/netlify/</loc>
 </url>
 <url>
 <loc>https://rbiswas-mirp.github.io/tag/august-2022/</loc>
@@ -89,19 +104,19 @@
 <loc>https://rbiswas-mirp.github.io/tag/css/</loc>
 </url>
 <url>
-<loc>https://rbiswas-mirp.github.io/tag/september-2022/</loc>
-</url>
-<url>
 <loc>https://rbiswas-mirp.github.io/tag/coding/</loc>
 </url>
 <url>
 <loc>https://rbiswas-mirp.github.io/tag/typography/</loc>
 </url>
 <url>
-<loc>https://rbiswas-mirp.github.io/tag/security/</loc>
+<loc>https://rbiswas-mirp.github.io/tag/july-2022/</loc>
 </url>
 <url>
-<loc>https://rbiswas-mirp.github.io/tag/netlify/</loc>
+<loc>https://rbiswas-mirp.github.io/tag/wordpress/</loc>
+</url>
+<url>
+<loc>https://rbiswas-mirp.github.io/tag/september-2022/</loc>
 </url>
 <url>
 <loc>https://rbiswas-mirp.github.io/</loc>
