@@ -4,13 +4,22 @@
  <title>BeluQuotes</title>
  <link href="https://www.beluquotes.com/atom.xml" rel="self"/>
  <link href="https://www.beluquotes.com/"/>
- <updated>2022-09-22T01:22:46+05:30</updated>
+ <updated>2022-09-22T01:25:03+05:30</updated>
  <id>https://www.beluquotes.com</id>
  <author>
    <name>Rahul</name>
    <email>your-email@email.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Never Delete the Settings App...</title>
+   <link href="https://www.beluquotes.com/2022/09/21/never-delete-the-settings-app"/>
+   <updated>2022-09-21T00:00:00+05:30</updated>
+   <id>https://www.beluquotes.com/2022/09/21/never-delete-the-settings-app</id>
+   <content type="html">&lt;h1 id=&quot;never-delete-the-settings-app&quot;&gt;Never delete the settings app&lt;/h1&gt;
+</content>
+ </entry>
  
  <entry>
    <title>If Beluga owned TikTok...</title>
