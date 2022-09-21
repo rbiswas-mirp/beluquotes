@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://beluquotes.pages.dev/sitemap.xml
+Sitemap: https://www.beluquotes.com/sitemap.xml
