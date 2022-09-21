@@ -7,7 +7,7 @@ lang: en-US
 timezone:  Asia/Kolkata
 repo: https://github.com/rbiswas-mirp/rbiswas-mirp.github.io # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
-discus-identifier: powex # replace with your disqus shortname
+discus-identifier: beluquotes # replace with your disqus shortname
 
 author:
   name: Rahul
